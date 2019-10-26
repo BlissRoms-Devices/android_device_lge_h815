@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository":  "aoleary/G4-Titan-Kernel",
+    "target_path": "kernel/lge/msm8992",
+    "revision": "p9x_test1"
+  },
+  {
+    "remote": "github",
+    "repository":  "android_device_lge_g4-common",
+    "target_path": "device/lge/g4-common",
+    "revision": "p9.0"
+  },
+  {
+    "remote": "github",
+    "repository":  "aoleary/vendor_lge",
+    "target_path": "vendor/lge",
+    "revision": "p9x_test1"
+  }
+]
